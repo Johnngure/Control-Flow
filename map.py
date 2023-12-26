@@ -9,4 +9,5 @@ def make_even(num):
 x = [ 112, 113, 114, 115, 120, 121, 130, 133]
 
 y = list(map(make_even, x))
+
 print(y)    
